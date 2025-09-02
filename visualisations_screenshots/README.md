@@ -8,7 +8,7 @@ These images provide a visual reference for each report tab and demonstrate diff
 ## Main Dashboard
 The main dashboard combines insights from all tabs into a single interactive view.
 
-![Main Dashboard](..visualisations_screeenshots/main_dashboard.png)
+![Main Dashboard](../visualisations_screeenshots/main_dashboard.png)
 
 ### Drill-Through View
 Drill-through pages provide deeper insights into selected metrics.
