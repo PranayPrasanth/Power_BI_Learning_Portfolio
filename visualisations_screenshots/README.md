@@ -22,14 +22,14 @@ Drill-through pages provide deeper insights into selected metrics.
 ## Home Tab
 Landing page with buttons for navigating across report pages.
 
-![Home Tab](../visualisations/home_page.png)
+![Home Tab](../visualisations_screenshots/home_page.png)
 
 ---
 
 ## Column & Bar Charts
 Visualizations of vertical, horizontal, and stacked bar/column charts.
 
-![Column & Bar Charts](../visualisations/column_bar_charts.png)
+![Column & Bar Charts](../visualisations_screenshots/column_bar_charts.png)
 
 ---
 
@@ -71,7 +71,7 @@ Matrix tables with conditional formatting and tabular insights.
 ## Cards
 Single-number KPIs and multi-row cards.
 
-![Cards](../visualisations/cards.png)
+![Cards](../visualisations_screenshots/cards.png)
 
 ---
 
