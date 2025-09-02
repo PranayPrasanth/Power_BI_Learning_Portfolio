@@ -15,7 +15,7 @@ The main dashboard combines insights from all tabs into a single interactive vie
 ### Drill-Through View
 Drill-through pages provide deeper insights into selected metrics.
 
-![Drill-Through](../visualisations/dashboard_drill_through.png)
+![Drill-Through](../visualisations_screenshots/dashboard_drill_through.png)
 
 ---
 
@@ -43,7 +43,7 @@ Line charts, area charts, and combo charts for trend analysis.
 ## Common Charts
 Standard visuals including pie charts, donut charts, and clustered charts.
 
-![Common Charts](../visualisations_screenshots/coomon_charts.png)
+![Common Charts](../visualisations_screenshots/common_charts.png)
 
 ---
 
